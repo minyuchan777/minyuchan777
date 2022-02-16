@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @minyuchan777
 - 👀 I’m interested in bioinformatics, python3 and R
 - 🌱 I’m currently learning python3 and R
-- 💞️ I’m looking to collaborate on ...
 - 📫 Drop me an email at minyu.chan@outlook.com
 
 <!---
