@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minyuchan777
-- 👀 I’m interested in bioinformatics, python3 and R
-- 🌱 I’m currently learning python3 and R
-- 📫 Drop me an email at minyu.chan@outlook.com
+- 👀 I’m interested in animal behaviour analysis and its applications in neuroscience
+- 🌱 I'm currently in my 2nd year of the PhD program at Monash University Malaysia
+- 📫 Drop me an email at minyu.chan@monash.edu
 
 <!---
 minyuchan777/minyuchan777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
