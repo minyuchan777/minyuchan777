@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minyuchan777
 - 👀 I’m interested in animal behaviour analysis and its applications in neuroscience
-- 🌱 I'm currently in my 2nd year of the PhD program at Monash University Malaysia
+- 🌱 I'm currently in my 2nd year of the PhD program at the Jeffrey Cheah School of Medicine and Health Sciences, Monash University Malaysia
 - 📫 Drop me an email at minyu.chan@monash.edu
 
 <!---
